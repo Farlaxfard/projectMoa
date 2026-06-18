@@ -1,6 +1,6 @@
 ![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20smaller.png?raw=true)
 
-projectMoa (https://projectmoa.framer.wiki) is a chonk of a Minecraft modpack, packing over 250 mods—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized chaos? 🚀 this bad boy is built to boost your performance, enhance your experience, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
+projectMoa is a chonk of a Minecraft modpack, packing ~over 250 mods and resourcepacks—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized chaos? 🚀 this bad boy is built to boost your performance, enhance your experience, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
 
 ![what's the deal?](https://cdn.modrinth.com/data/cached_images/cce1b202402c96ac1d3bfa9ba3bc8f17d4018925.png)
 
@@ -27,5 +27,3 @@ the result? a smooth, ultra-immersive, and crisp experience that makes vanilla m
 ![more on projectmoa](https://cdn.modrinth.com/data/cached_images/b0232471d25a36aef79b3f1ecb5582e64e4f489e.png)
 
 whether you’re a casual player, a builder, or a redstone mastermind, projectMoa is here to make your minecraft experience feel like the true upgrade it deserves to be.
-
-wanna see get more in-depth details? check it out: [nice website link](https://projectmoa.framer.wiki) 🚀
