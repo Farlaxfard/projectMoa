@@ -1,13 +1,13 @@
 ![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20smaller.png?raw=true)
 
- - DISCLAIMER: This modpack contains both *InvMove* and *Freecam*, which is considered illegal in massive servers. **disable them before joining big servers.** (it's just a toggle away.)
+ - DISCLAIMER: This modpack contains both *InvMove* and *Freecam*, which is considered illegal in massive servers. **disable them before joining big servers.** (it's just a toggle away, don't get yourself banned.)
 
 projectMoa is a chonk of a Minecraft modpack, packing ~over 250 mods and resourcepacks—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized chaos? 🚀 this bad boy is built to boost your performance, enhance your experience, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
 
 # TL;DR:
- alright, i get it. you just want the darn modpack, and don't wanna read an essay.
-so- basically~ projectMoa is an all in one QOL modpack with good visuals and configs- for lagless gameplay while you get those juicy graphics.
-like, you even get shaders in projectmoa- no setup. the difference? **it barely takes up your expensive RAM** (and if you're on a potato PC, the performance version trims that down even more.). and- don't forget the amazing utilities! much more visible tripwire traps for people who come in contact with judelow, and unique enchantment book textures- for people who hate hovering over and reading a tiny tooltip, and well, just find out for yourself! can't fit em all here, modrinth would crash.
+alright, i get it. you just want the darn modpack, and don't wanna read an essay.
+so- basically~ projectMoa is an all-in-one QOL modpack with gorgeous visuals and perfect configs- for lagless gameplay while you get those juicy graphics.
+like, you even get shaders in projectmoa- zero setup required. the difference? it barely sips your expensive RAM. (and if you're on a potato PC, the performance version trims that down even more so your rig doesn't explode.) and- don't forget the amazing utilities! much more visible tripwire traps for people who come in contact with judelow, and unique enchantment book textures- for people who hate hovering over and reading a tiny tooltip, and well much more, just find out for yourself! cause i can't fit em all here, modrinth would crash.
 
 ![what's the deal?](https://cdn.modrinth.com/data/cached_images/cce1b202402c96ac1d3bfa9ba3bc8f17d4018925.png)
 
@@ -16,8 +16,6 @@ projectMoa is client-sided—yes, i said it again, and i’ll say it louder for 
 ![what makes moa special](https://cdn.modrinth.com/data/cached_images/68976b008582aa47ce66f0c7be390424174a76ec.png)
 
 projectMoa isn’t just some random pile of mods thrown together like my sister's first fruit salad—**every single mod, every tweak, every setting has been hand-tuned, manually configured, and carefully optimized** to squeeze out every drop of performance and immersion. 🛠️✨
-
-this ain't no "ooh- here are some mods that i found" modpack. nope. each piece has been fine-tuned one by one, by hand, like a master chef crafting the perfect dish—except instead of food, it's pure, unfiltered Minecraft goodness. 🍽️🎮
 
 ![way too many spoilers](https://cdn.modrinth.com/data/cached_images/8970a946049fa811303aa035c5cf03e7e8f1feb2.png)
 
