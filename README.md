@@ -1,4 +1,4 @@
-![this is supposed to be projectMoa's logo](https://raw.githubusercontent.com/Farlaxfard/projectMoa/refs/heads/main/projectMoa%20Landscape.png)
+![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20smaller.png?raw=true)
 
 projectMoa (https://projectmoa.framer.wiki) is a chonk of a Minecraft modpack, packing over 250 mods—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized chaos? 🚀 this bad boy is built to boost your performance, enhance your experience, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
 
