@@ -1,2 +1,2 @@
 # projectMoa
-the files of projectMoa.
+the uploaded files of projectMoa.
