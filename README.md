@@ -9,7 +9,7 @@ projectMoa is a chonk of a Minecraft modpack, packing ~over 250 mods and resourc
 ## TL;DR:
 alright, i get it. you just want the darn modpack, and don't wanna read an essay.
 so- basically~ projectMoa is an all-in-one QOL modpack with gorgeous visuals and perfect configs- for lagless gameplay while you get those juicy graphics.
-like, you even get shaders in projectmoa- zero setup required. the difference? it barely sips your expensive RAM. (and if you're on a potato PC, the performance version trims that down even more so your rig doesn't explode.) and- don't forget the amazing utilities! much more visible tripwire traps for people who come in contact with judelow, and unique enchantment book textures- for people who hate hovering over and reading a tiny tooltip, and well much more, just find out for yourself! cause i can't fit em all here, modrinth would crash.
+like, you even get shaders in projectmoa- zero setup required. the difference? it barely sips your expensive RAM. (and if you're on a potato PC, the performance version trims that down even more so your rig doesn't explode.) and- don't forget the amazing utilities! in-game resourcepack downloading and updating, in game downloadable worlds and datapacks, much more visible tripwire traps for people who come in contact with judelow, and unique enchantment book textures- for people who hate hovering over and reading a tiny tooltip, and well much more, just find out for yourself! cause i can't fit em all here, modrinth would crash.
 
 ---
 
