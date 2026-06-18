@@ -1,6 +1,6 @@
 ![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20smaller.png?raw=true)
 
- - DISCLAIMER: This modpack contains both InvMove and Freecam, which is considered illegal in massive servers. disable them before joining big servers. (it's just a toggle away.)
+ - DISCLAIMER: This modpack contains both *InvMove* and *Freecam*, which is considered illegal in massive servers. **disable them before joining big servers.** (it's just a toggle away.)
 
 projectMoa is a chonk of a Minecraft modpack, packing ~over 250 mods and resourcepacks—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized chaos? 🚀 this bad boy is built to boost your performance, enhance your experience, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
 
