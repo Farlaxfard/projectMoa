@@ -1,6 +1,7 @@
 ![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20Landscape.png?raw=true)
 
 > **- DISCLAIMER:** This modpack contains both *InvMove* and *Freecam*, which are considered illegal in massive servers. **disable them before joining big servers.** (it's just a toggle away, don't get yourself banned.)
+
 > **- THIS IS THE PERFORMANCE VERSION OF PROJECTMOA. -** The more visual-oriented version is here: https://modrinth.com/modpack/projectmoa-beauty and the more balanced version is here: https://modrinth.com/modpack/projectmoa
 
 projectMoa is a *chonk* of a Minecraft modpack, packing ~over 220 mods and resourcepacks—because why settle for basic when you can have next-level, butter-smooth, ultra-optimized block placing? 🚀 this bad boy is built to boost your performance, make you question why mojang didn't add some of these features, and make vanilla minecraft feel like it’s been hitting the gym (but, like, without the sweat).
