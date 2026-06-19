@@ -1,4 +1,4 @@
-![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20smaller.png?raw=true)
+![this is supposed to be projectMoa's logo](https://github.com/Farlaxfard/projectMoa/blob/main/projectMoa%20Landscape.png?raw=true)
 
 > **- DISCLAIMER:** This modpack contains both *InvMove* and *Freecam*, which are considered illegal in massive servers. **disable them before joining big servers.** (it's just a toggle away, don't get yourself banned.)
 
