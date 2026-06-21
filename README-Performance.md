@@ -35,9 +35,3 @@ projectMoa isn’t just some random pile of mods thrown together like my sister'
 * **zero extra steps**—no messing with configs, no tech wizardry needed. just create world, play, and go into heaven.
 
 the result? a smooth, ultra-immersive, and crisp experience that makes vanilla minecraft feel like it was running on a potato this whole time. no extra setup, no headaches—**just install and enjoy the upgrade.**
-
----
-
-![more on projectmoa](https://cdn.modrinth.com/data/cached_images/b0232471d25a36aef79b3f1ecb5582e64e4f489e.png)
-
-whether you’re a casual player, a builder, or a redstone mastermind, projectMoa is here to make your minecraft experience feel like the *true upgrade* it deserves to be.
