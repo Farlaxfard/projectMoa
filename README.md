@@ -13,7 +13,7 @@ like, you even get shaders in projectmoa- *zero setup required*. the difference?
 
 ---
 
-![what's the deal?](https://cdn.modrinth.com/data/cached_images/cce1b202402c96ac1d3bfa9ba3bc8f17d4018925.png)
+![what's the deal?](https://github.com/Farlaxfard/projectMoa/blob/692371b788d4f8a101203e172258f9a11be5e2a4/modrinth%20Page%20Images/so....png)
 
 projectMoa is **client-sided**—yes, i said it again, and i’ll say it louder for the people in the back. *client. sided.* 🎤✨ that means you can flex all these fancy upgrades without breaking multiplayer. sure, there might be some optional singleplayer server-sided bits, including *invmove* (moving while in your inventory) for those servers that think that using your legs while checking your massive pockets are hacking~ but at its core, it’s all about you, your game, and an experience so smooth it could sell skincare products.
 
