@@ -13,20 +13,20 @@ like, you even get shaders in projectmoa- *zero setup required*. the difference?
 
 ---
 
-![what's the deal?](https://github.com/Farlaxfard/projectMoa/blob/73459047b53b8d84959e0916c1c0c8bce1f332b3/modrinth%20Page%20Images/deal.png)
+![what's the deal?](https://github.com/Farlaxfard/projectMoa/blob/73459047b53b8d84959e0916c1c0c8bce1f332b3/modrinth%20Page%20Images/deal.png?raw=true)
 
 # projectMoa is **client-sided**
 —yes, i said it again, and i’ll say it louder for the people in the back. *client. sided.* 🎤✨ that means you can flex all these fancy upgrades without breaking multiplayer. sure, there might be some optional singleplayer server-sided bits, including *invmove* (moving while in your inventory) for those servers that think that using your legs while checking your massive pockets are hacking~ but at its core, it’s all about you, your game, and an experience so smooth it could sell skincare products.
 
 ---
 
-![what makes moa special](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/speciality.png)
+![what makes moa special](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/speciality.png?raw=true)
 
 projectMoa isn’t just some random pile of mods thrown together like my sister's first fruit salad—**every single mod, every tweak, every setting has been hand-tuned, manually configured, and carefully optimized** to squeeze out every drop of performance and immersion. 🛠️✨
 
 ---
 
-![way too many spoilers](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/spoilers.png)
+![way too many spoilers](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/spoilers.png?raw=true)
 
 * **performance upgrades**—because fps drops are illegal 🚫
 * **visual tweaks**—so minecraft looks less like a powerpoint slideshow and more like a modern masterpiece 🎨
