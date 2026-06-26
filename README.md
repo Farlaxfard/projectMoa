@@ -20,13 +20,13 @@ like, you even get shaders in projectmoa- *zero setup required*. the difference?
 
 ---
 
-![what makes moa special](https://cdn.modrinth.com/data/cached_images/68976b008582aa47ce66f0c7be390424174a76ec.png)
+![what makes moa special](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/speciality.png)
 
 projectMoa isn’t just some random pile of mods thrown together like my sister's first fruit salad—**every single mod, every tweak, every setting has been hand-tuned, manually configured, and carefully optimized** to squeeze out every drop of performance and immersion. 🛠️✨
 
 ---
 
-![way too many spoilers](https://cdn.modrinth.com/data/cached_images/8970a946049fa811303aa035c5cf03e7e8f1feb2.png)
+![way too many spoilers](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/spoilers.png)
 
 * **performance upgrades**—because fps drops are illegal 🚫
 * **visual tweaks**—so minecraft looks less like a powerpoint slideshow and more like a modern masterpiece 🎨
