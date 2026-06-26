@@ -23,7 +23,7 @@ projectMoa is **client-sided**—yes, i said it again, and i’ll say it louder 
 
 ---
 
-![what makes moa special](https://cdn.modrinth.com/data/cached_images/68976b008582aa47ce66f0c7be390424174a76ec.png)
+![what makes moa special](https://github.com/Farlaxfard/projectMoa/blob/16bcce19d02557b583c11428550a3db108af54e8/modrinth%20Page%20Images/speciality.png?raw=true)
 
 projectMoa isn’t just some random pile of mods thrown together like my sister's first fruit salad—**every single mod, every tweak, every setting has been hand-tuned, manually configured, and carefully optimized** to squeeze out every drop of performance and immersion. 🛠️✨
 
