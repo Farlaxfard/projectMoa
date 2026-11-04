@@ -1,0 +1,104 @@
+[17:01:19] [info] Source   : [4mhttps://projectmoa.framer.wiki[24m
+[17:01:19] [info] Output   : [38;2;250;178;131m/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac[39m
+[17:01:19] [info] Platform : [38;2;250;178;131mFramer[39m
+[17:01:19] [info] DPR      : [38;2;250;178;131m1[39m
+[17:01:19] [info] Subpages : [38;2;127;216;143menabled[39m
+[17:01:19] [log] Output directory structure created
+[17:01:19] [log] Fetching SSR HTML from https://projectmoa.framer.wiki
+[17:01:20] [ok] SSR HTML fetched (438.1 KB)
+[17:01:20] [log] Launching headless Chromium...
+[17:01:20] [ok] Chromium launched
+[17:01:21] [log] Stealth hardening applied (Chrome 112.0.5614.0)
+[17:01:21] [log] Viewport set to 1440x900 at 1x DPR
+[17:01:21] [log] Blocking 8 tracking domains:
+[17:01:21] [log]   - sentry.io
+[17:01:21] [log]   - www.googletagmanager.com
+[17:01:21] [log]   - connect.facebook.net
+[17:01:21] [log]   - stats.g.doubleclick.net
+[17:01:21] [log]   - google-analytics.com
+[17:01:21] [log]   - events.framer.com
+[17:01:21] [log]   - api.framer.com
+[17:01:21] [log]   - collect.frameranalytics.com
+[17:01:21] [log] Network interception enabled
+[17:01:21] [info] Navigating to https://projectmoa.framer.wiki
+[17:01:22] [ok] Document loaded; waiting for page content and resources
+[17:01:22] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
+[17:01:22] [log] Checking DOM-based platform detection...
+[17:01:22] [log] Hydration content found: #main
+[17:01:31] [log] Waiting for font layout and response bodies
+[17:01:31] [log] Resources settled
+[17:01:31] [log] Captured HTML and CSSOM (522.2 KB)
+[17:01:31] [ok] Captured 72 network resources total
+[17:01:31] [log]   CSS: 2 | JS: 32 | Images: 24 | Fonts: 10
+[17:01:31] [log] Scanning page for internal links...
+[17:01:31] [log] Found 4 sub-page links on the home page
+[17:01:31] [log]   Navigating to sub-page: https://projectmoa.framer.wiki/download
+[17:01:33] [log] Hydration content found: #main
+[17:01:43] [log] Network idle timeout reached (continuing anyway)
+[17:01:43] [log] Waiting for font layout and response bodies
+[17:01:43] [log] Resources settled
+[17:01:44] [log]   Sub-page fetched: 307.3 KB
+[17:01:44] [log]   Saved: subpages/download.html
+[17:01:44] [log]   Discovered 1 new link(s) on download
+[17:01:44] [log]   Navigating to sub-page: https://projectmoa.framer.wiki/help
+[17:01:45] [log] Hydration content found: #main
+[17:01:55] [log] Network idle timeout reached (continuing anyway)
+[17:01:55] [log] Waiting for font layout and response bodies
+[17:01:55] [log] Resources settled
+[17:01:55] [log]   Sub-page fetched: 290.9 KB
+[17:01:55] [log]   Saved: subpages/help.html
+[17:01:55] [log]   Navigating to sub-page: https://projectmoa.framer.wiki/features
+[17:01:57] [log] Hydration content found: #main
+[17:02:08] [log] Network idle timeout reached (continuing anyway)
+[17:02:08] [log] Waiting for font layout and response bodies
+[17:02:08] [log] Resources settled
+[17:02:08] [log]   Sub-page fetched: 369.6 KB
+[17:02:08] [log]   Saved: subpages/features.html
+[17:02:08] [log]   Navigating to sub-page: https://projectmoa.framer.wiki/reviews
+[17:02:09] [log] Hydration content found: #main
+[17:02:20] [log] Network idle timeout reached (continuing anyway)
+[17:02:20] [log] Waiting for font layout and response bodies
+[17:02:20] [log] Resources settled
+[17:02:20] [log]   Sub-page fetched: 308.1 KB
+[17:02:20] [log]   Skipped https://projectmoa.framer.wiki/reviews: ENOENT: no such file or directory, open '/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac/subpages/reviews.html'
+[17:02:20] [log]   Navigating to sub-page: https://projectmoa.framer.wiki/download/list
+[17:02:21] [log] Hydration content found: #main
+[17:02:32] [log] Network idle timeout reached (continuing anyway)
+[17:02:32] [log] Waiting for font layout and response bodies
+[17:02:32] [log] Resources settled
+[17:02:32] [log]   Sub-page fetched: 332.8 KB
+[17:02:32] [log]   Skipped https://projectmoa.framer.wiki/download/list: ENOENT: no such file or directory, open '/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac/subpages/download_list.html'
+[17:02:32] [ok] Sub-pages crawled: 3
+[17:02:32] [log] Browser closed
+[17:02:32] [warn] Could not re-read sub-page for resource scan: download.html
+[17:02:32] [warn] Could not re-read sub-page for resource scan: help.html
+[17:02:32] [warn] Could not re-read sub-page for resource scan: features.html
+[17:02:32] [ok] Queued 255 resource(s) declared in HTML but never requested
+[17:02:32] [log] Starting download of 487 assets and their CSS/HTML dependencies
+[17:02:34] [warn] Download failed: https://www.youtube.com/ptracking?html5=1&video_id=YGV4PaFaEr0&cpn=W97ylNcmm_WfthdS&ei=Y3Dnau7uF9qg4t4PsvyCmA0&ptk=youtube_single&oid=yOogKlgzaXsWHyjjct_3zg&ptchn=K1EgTk5lPW5ew8JySV_C7w&pltype=content - HTTP 204
+[17:02:34] [warn] Download failed: https://www.youtube.com/ptracking?html5=1&video_id=uxh4Y_hcLR0&cpn=b0t5TOpB8VYO7mus&ei=eHDnar7dN6WQssUPj76ciQo&ptk=youtube_single&oid=99PXf1-lrk2eTQE3W6UJqQ&ptchn=JhjE7wbdYAae1G25m0tHAA&pltype=content - HTTP 204
+[17:02:34] [warn] Download failed: https://www.youtube.com/ptracking?html5=1&video_id=qeWmwkf9UCE&cpn=lk9sFiu9-G5ACNIG&ei=hXDnaq3fHs2L4t4PhL3dkAM&ptk=youtube_single&oid=-6itzJgcvAvwADqQoCKm-g&ptchn=4Y6bt3nixoEi-KngirFEvA&pltype=content - HTTP 204
+[17:02:34] [warn] Download failed: https://www.youtube.com/ptracking?html5=1&video_id=G-_4ovnVXl0&cpn=JyhDMGaJywXK1Tv9&ei=kXDnasaKFLSA9fwPy-aToQg&ptk=youtube_single&oid=P_eZEDhNCRx0Bnf0G32VyA&ptchn=2gdH5jk_8PX2Sqf3ks_QJA&pltype=content - HTTP 204
+[17:02:34] [warn] Download failed: https://www.youtube.com/ptracking?html5=1&video_id=qrtt7mgwCTw&cpn=3a7P-2o60xNsq7ji&ei=nXDnarGiEazh1_oPjPnb8QU&ptk=youtube_single&oid=yZaweYziT3AVX4tUkge-HQ&ptchn=ntaczLM_lWH85oZp6rRX1w&pltype=content - HTTP 204
+[17:02:41] [warn] Download failed: https://www.youtube.com/img/meh7.png - HTTP 404
+[17:02:50] [warn] Download failed: https://font.typeform.com/dist/fonts/twk-lausanne/TWKLausanne-200Italic.woff2 - HTTP 403
+[17:02:54] [warn] Downloads complete: 658 succeeded, 226 from cache, 7 failed
+[17:03:02] [ok] Lazy-loaded chunks resolved: 19
+[17:03:02] [log] Starting HTML post-processing...
+[17:03:02] [log] HTML size: 522.2 KB
+[17:03:02] [ok] Index HTML pipeline complete
+[17:03:09] [log] Rewrote URLs in 27 JS/CSS files
+[17:03:09] [log] Rewrote resources in 8 embedded HTML documents
+[17:03:09] [warn] Sub-page post-processing skipped: download.html - ENOENT: no such file or directory, open '/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac/subpages/download.html'
+[17:03:09] [warn] Sub-page post-processing skipped: help.html - ENOENT: no such file or directory, open '/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac/subpages/help.html'
+[17:03:09] [warn] Sub-page post-processing skipped: features.html - ENOENT: no such file or directory, open '/var/home/farlaxfard/FramerExport/framer-projectmoa-framer-wiki-prime-copy-lmac/subpages/features.html'
+[17:03:09] [ok] Sub-pages linked to local assets: 0/3
+[17:03:09] [ok] Captured asset URLs rewritten to local paths
+[17:03:09] [ok] Formatted 151/151 JS/MJS files
+[17:03:09] [log] Writing index.html (565.5 KB)...
+[17:03:09] [ok] index.html written
+[17:03:09] [log] serve.js written
+[17:03:09] [log] package.json written for serve.js
+[17:03:09] [warn] 7 asset(s) could not be saved. See export-report.json.
+[17:03:09] [ok] Output build complete
+[17:03:09] [ok] Export complete!

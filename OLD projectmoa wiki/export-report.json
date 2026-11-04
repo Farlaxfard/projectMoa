@@ -1,0 +1,43 @@
+{
+  "source": "https://projectmoa.framer.wiki/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-11-01T17:03:09.909Z",
+  "assets": 677,
+  "failedAssets": [
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=YGV4PaFaEr0&cpn=W97ylNcmm_WfthdS&ei=Y3Dnau7uF9qg4t4PsvyCmA0&ptk=youtube_single&oid=yOogKlgzaXsWHyjjct_3zg&ptchn=K1EgTk5lPW5ew8JySV_C7w&pltype=content",
+      "message": "HTTP 204"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=uxh4Y_hcLR0&cpn=b0t5TOpB8VYO7mus&ei=eHDnar7dN6WQssUPj76ciQo&ptk=youtube_single&oid=99PXf1-lrk2eTQE3W6UJqQ&ptchn=JhjE7wbdYAae1G25m0tHAA&pltype=content",
+      "message": "HTTP 204"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=qeWmwkf9UCE&cpn=lk9sFiu9-G5ACNIG&ei=hXDnaq3fHs2L4t4PhL3dkAM&ptk=youtube_single&oid=-6itzJgcvAvwADqQoCKm-g&ptchn=4Y6bt3nixoEi-KngirFEvA&pltype=content",
+      "message": "HTTP 204"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=G-_4ovnVXl0&cpn=JyhDMGaJywXK1Tv9&ei=kXDnasaKFLSA9fwPy-aToQg&ptk=youtube_single&oid=P_eZEDhNCRx0Bnf0G32VyA&ptchn=2gdH5jk_8PX2Sqf3ks_QJA&pltype=content",
+      "message": "HTTP 204"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=qrtt7mgwCTw&cpn=3a7P-2o60xNsq7ji&ei=nXDnarGiEazh1_oPjPnb8QU&ptk=youtube_single&oid=yZaweYziT3AVX4tUkge-HQ&ptchn=ntaczLM_lWH85oZp6rRX1w&pltype=content",
+      "message": "HTTP 204"
+    },
+    {
+      "url": "https://www.youtube.com/img/meh7.png",
+      "message": "HTTP 404"
+    },
+    {
+      "url": "https://font.typeform.com/dist/fonts/twk-lausanne/TWKLausanne-200Italic.woff2",
+      "message": "HTTP 403"
+    }
+  ],
+  "subpages": 3,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported.",
+    "Some assets could not be saved; remote fallback URLs may require network access."
+  ]
+}

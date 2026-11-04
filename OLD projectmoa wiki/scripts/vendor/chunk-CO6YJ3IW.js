@@ -1,0 +1,2 @@
+var t=(e,r)=>{let n=[{value:1,symbol:""},{value:1e3,symbol:"k"},{value:1e6,symbol:"M"},{value:1e9,symbol:"G"},{value:1e12,symbol:"T"},{value:1e15,symbol:"P"},{value:1e18,symbol:"E"}],u=/\.0+$|(\.[0-9]*[1-9])0+$/,l=n.slice().reverse().find(function(o){return e>=o.value});return l?(e/l.value).toFixed(r).replace(u,"$1")+l.symbol:"0"},s=e=>{if(typeof e!="string"||e.trim()==="")return null;let r=Number(e);return Number.isFinite(r)?r:null};export{t as a,s as b};
+//# sourceMappingURL=/static/8304c825531a84088a6d6e1fc40ab02e5ce16992/build/_shared/chunk-CO6YJ3IW.js.map
